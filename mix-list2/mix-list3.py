@@ -5,3 +5,9 @@ this_list.reverse()
 print(this_list)
 this_list.sort()
 print(this_list)
+
+this = []
+for i in range(20):
+	this.append(i**3)
+
+print(this)
